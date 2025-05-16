@@ -15,6 +15,37 @@
     </entry>
     
     
+    
+    <entry>
+      <title>hexo</title>
+      <link href="/2025/05/13/hello/"/>
+      <url>/2025/05/13/hello/</url>
+      
+        <content type="html"><![CDATA[<h3 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World!"></a>Hello World!</h3><p>Welcome to [Hexo]</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+          <category> 记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> 说说 </tag>
+            
+            <tag> 记录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
   
   
 </search>
